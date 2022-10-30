@@ -1,0 +1,208 @@
+
+/* ..................................Section-nav.................... */
+
+.container-fluid{
+    background-color: #fcdb00;
+    padding: 60px 0 105px;;
+}
+
+.header{
+    background-color: #fcdb00;
+    padding: 60px 0 105px
+
+}
+
+nav.navbar.navbar-default {
+    background: none;
+    background: none;
+    border: none;
+    box-shadow: none;
+}
+
+
+
+.navbar-default .navbar-brand {
+    padding: 0;
+}
+
+ul.nav.navbar-nav.navbar-right {
+    font-size: 22px;
+    text-transform: capitalize;
+    color: #010101;
+    font-weight: bold;
+   
+
+}
+
+.head1{
+    margin: 130px 0 25px;
+    font-size: 32px;
+    color: #413801
+}
+
+.inspire h5{ 
+    font-size: 22px;
+    color: #010101;
+    margin-bottom: 25px;
+}
+
+.nav navbar-nav p{
+    font-size: 16px;
+    color: #413801;
+
+    
+}
+.navbar-default .navbar-nav>li>a {
+    color: #010101;
+}
+
+.nav-list{
+    
+}
+
+.ul-list li{
+    display: inline-block;
+    margin-top: 45px;
+    
+}
+
+ .ul-list li a{
+   
+    margin-left: 40px;
+    font-size: 40px;
+    color: black;
+}
+
+.ipad{
+    margin-bottom: 108px;
+    padding-top: 70px;
+}
+
+
+/* .......................................Features-section................................ */
+
+
+.inspire ul {
+    margin-left: -80px;
+}
+
+
+.Features{
+    background-color: #fff;
+}
+
+.Features h1{
+    margin-top: 120px;
+    font-size: 32px;
+    color: #010101;
+    font-weight: bold;
+
+}
+
+.Features h3{
+    font-size: 20px;
+    color: #010101;
+    margin-bottom: 50px;
+   
+    
+}
+
+.Responsive-Sec{
+    margin-bottom: 140px;
+}
+
+
+
+/* ...........................................footer-section................................ */
+
+.footer{
+    background-color: #010101;
+
+}
+
+.Intouch-Sec h1{
+    color:#fcdb00;
+    font-size: 32px;
+    margin-top: 90px;
+
+}
+
+.Intouch-Sec p{
+    font-size: 20px;
+    color: #6a6a6a;
+    margin-bottom: 44px;
+
+}
+
+ .submit{
+    background-color: #fcdb00;
+    border: 1px solid #fcdb00;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #010101;
+    transition: all 0.3s ease-in-out;
+ }
+
+ .submit:hover{
+   background-color: #010101;
+   color: #fcdb00;
+ }
+
+ .form-group{
+    margin: 0;
+ }
+
+.footer .contact-form{
+    padding: 0 0 50px;
+}
+.Social-icons li{
+   display: inline-block;
+   margin-left: 32px;
+   
+   
+}
+
+
+.Social-icons li a i{
+    font-size: 40px;
+    color: #fcdb00;
+    margin-bottom: 130px;
+
+}
+
+.footer-list p{
+    font-size: 16px;
+    color: #bcbcbc;
+}
+
+
+@media all and (max-width:992px){
+    .ipad{
+        margin: 10% 0 0;
+        
+        }
+        .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+            background-color: transparent;
+            border: none;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #010101;
+        font-weight: bold;
+    }
+
+    .nav>li>a {
+        position: relative;
+        display: block;
+        padding: 15px 15px 15px 0;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: none;
+    }
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: none;
+    }
+    .brand-icons {
+        margin-left: -93px;
+    }
+}
+

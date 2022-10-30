@@ -1,0 +1,42 @@
+
+
+
+ul{
+    list-style: none;
+}
+
+.mb-20{
+    margin-bottom: 25px;
+}
+
+.icons{
+    font-weight: 900;
+    margin: 20px;
+    font-size: 40px;
+}
+
+
+.p-30{
+    padding: 0 90px;
+}
+
+.ml-10{
+   
+}
+
+.mb-80{
+    margin-bottom: 80px;
+}
+
+.mb-140{
+    margin-bottom: 140px;
+}
+
+.foot-list{
+    font-size: 16px;
+    color:#bcbcbc;
+}
+
+.u-List{
+    color: #bcbcbc;
+}
